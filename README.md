@@ -26,6 +26,8 @@ I'm eager to contribute to open-source projects, learn from experienced develope
 
 Thanks for visiting my profile!
 
+# GitHub Stats
+
 ![robert-hall-24's Stats](https://github-readme-stats.vercel.app/api?username=robert-hall-24&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![robert-hall-24's Streak](https://github-readme-streak-stats.herokuapp.com/?user=robert-hall-24&theme=tokyonight&hide_border=false)
 ![robert-hall-24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-hall-24&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
